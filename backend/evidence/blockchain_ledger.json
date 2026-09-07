@@ -1,0 +1,15 @@
+[
+  {
+    "index": 0,
+    "timestamp": "2026-01-01T00:00:00",
+    "event_id": "GENESIS-00000",
+    "camera_id": "ROOT-COMMAND",
+    "event_type": "GENESIS: Sovereign Border Defense Ledger Initialized",
+    "evidence_path": "N/A",
+    "evidence_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+    "face_crop_sha256": null,
+    "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "nonce": 2026,
+    "block_hash": "4C7080D043D667D745691FDD9FA97457B381E86CE8358802EBAF3FF35264C72D"
+  }
+]
