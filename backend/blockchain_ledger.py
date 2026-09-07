@@ -1,5 +1,5 @@
 """
-Cryptographic Blockchain Evidence Integrity Ledger for Real Time Detection (SIH-2K26).
+Cryptographic Blockchain Evidence Integrity Ledger for Suraksha Vision (SIH-2K26).
 Maintains an immutable chain of SHA-256 hashes of incident surveillance snapshots and biometric crops.
 Provides court-admissible proof that video evidence has not been modified or replaced.
 """

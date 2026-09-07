@@ -315,7 +315,7 @@ function App() {
     <div className="min-h-screen bg-slate-950 text-slate-100 flex flex-col font-sans select-none antialiased">
       
       {/* ============================================================ */}
-      {/* TOP HEADER: REAL TIME DETECTION COMMAND BAR                 */}
+      {/* TOP HEADER: SURAKSHA VISION COMMAND BAR                       */}
       {/* ============================================================ */}
       <header className="bg-slate-900/90 backdrop-blur-md border-b border-slate-800 px-4 py-2.5 flex flex-wrap items-center justify-between gap-4 sticky top-0 z-30 shadow-xl">
         <div className="flex items-center gap-3">
@@ -325,7 +325,7 @@ function App() {
           <div>
             <div className="flex items-center gap-2">
               <h1 className="text-xl md:text-2xl font-black tracking-wider text-white uppercase flex items-center gap-2">
-                REAL TIME DETECTION
+                SURAKSHA VISION
               </h1>
               <span className="text-[10px] bg-cyan-500/20 text-cyan-400 px-2 py-0.5 rounded-full border border-cyan-500/40 font-mono font-bold tracking-wide">
                 AI SURVEILLANCE MATRIX
